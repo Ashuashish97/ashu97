@@ -2,7 +2,7 @@ class emp{
    int j=20;
     public static void main(String... args){
 
-    System.out.println("welcome to svn");
+    System.out.println("welcome to git");
 
 }
      void doWork(){
