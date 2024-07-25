@@ -6,6 +6,7 @@ class emp{
 
 }
      void doWork(){
+int k=10;
 }
 
 
